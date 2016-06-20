@@ -22,7 +22,12 @@ Generates a React project skeleton. Inspired by `rails new`.
 
 ### Installation
 
+
+
 ```bash
+Install brew if you don't have it yet. 
+Run cmd: brew doctor after installation to see if you are missing any path dependencies.
+
 brew tap email2jie/react
 brew install react
 ```
