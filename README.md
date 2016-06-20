@@ -23,7 +23,7 @@ Generates a React project skeleton. Inspired by `rails new`.
 ### Installation
 
 ```bash
-brew tap timhwang21/react
+brew tap email2jie/react
 brew install react
 ```
 
